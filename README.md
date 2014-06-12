@@ -59,7 +59,7 @@ Inside the examples folder, you can see some circuits:
 
 ### Example 2 - Flip Flop JK (Async)
 
-**Coming soon**
+![4](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/example-2.gif)
 
 ## Docs
 
