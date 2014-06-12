@@ -3,7 +3,7 @@
 
 ## What is Logisim ?
 
-http://ozark.hendrix.edu/~burch/logisim/
+See at the Project page: http://ozark.hendrix.edu/~burch/logisim/
 
 ## How to use ?
 
@@ -55,11 +55,11 @@ Inside the examples folder, you can see some circuits:
 
 ### Example 1 - Switch
 
-**Coming soon**
+![Example 1](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/example-1.gif)
 
 ### Example 2 - Flip Flop JK (Async)
 
-![4](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/example-2.gif)
+![Example 2](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/example-2.gif)
 
 ## Docs
 
