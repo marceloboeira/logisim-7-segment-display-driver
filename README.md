@@ -1,22 +1,23 @@
-7 Segment Display Driver
-=====================================
+# 7 Segment Display Driver
+> TTL-7447-like implementation for logisim
+
+The 7-segment display driver is an implementation of or BCD (Binary Coded Decimal) to 7-segment display decoder and driver.
+
+It allows you to send binary numbers to a 7 segment display rather than implementing every character yourself.
 
 ## What is Logisim ?
 
-See at the Project page: http://ozark.hendrix.edu/~burch/logisim/
+Logisim is a circuit simulator. More info: http://www.cburch.com/logisim/
 
 ## How to use ?
 
 ### Step 1
 
-
-First of all you will need to download the this project (link),  or clone 
-
+First of all you will need to download the this project (link),  or clone.
 
 Then create a new circuit pressing "CTRL + N".
 
 See:
-
 
 ![1](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/how-to-1.png)
 
@@ -47,8 +48,6 @@ So, after connecting the Driver to the display, your circuit should look like th
 ![4](https://github.com/marceloboeira/logisim-7-segment-display-driver/raw/master/_res/how-to-4.png)
 
 
-
-
 ## Examples
 
 Inside the examples folder, you can see some circuits:
@@ -63,7 +62,7 @@ Inside the examples folder, you can see some circuits:
 
 ## Docs
 
-Here you can see the Truth table, that I used to make the circuit: 
+Here you can see the Truth table, that I used to make the circuit:
 
 | Hex | D | C | B | A |   | a | b | c | d | e | f | g |
 |:---:|:-:|:-:|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -82,4 +81,4 @@ Here you can see the Truth table, that I used to make the circuit:
 |  C  | 1 | 1 | 0 | 0 |   | 1 | 0 | 0 | 1 | 1 | 1 | 0 |
 |  D  | 1 | 1 | 0 | 1 |   | 0 | 1 | 1 | 1 | 1 | 0 | 1 |
 |  E  | 1 | 1 | 1 | 0 |   | 1 | 0 | 0 | 1 | 1 | 1 | 1 |
-|  F  | 1 | 1 | 1 | 1 |   | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 
+|  F  | 1 | 1 | 1 | 1 |   | 1 | 0 | 0 | 0 | 1 | 1 | 1 |
